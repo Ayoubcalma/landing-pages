@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome</title>
+    <title>FAS Deposits</title>
 
     <style>
         body{
@@ -28,11 +28,13 @@
 
         h1{
             margin-bottom:15px;
+            font-size:32px;
         }
 
         p{
             color:#d1d5db;
-            line-height:1.6;
+            line-height:1.8;
+            font-size:17px;
         }
 
         a.button{
@@ -44,10 +46,13 @@
             color:white;
             border-radius:10px;
             font-weight:bold;
+            font-size:18px;
+            transition:.2s;
         }
 
         a.button:hover{
             opacity:.9;
+            transform:scale(1.03);
         }
     </style>
 </head>
@@ -55,14 +60,19 @@
 
 <div class="card">
 
-<h1>Welcome!</h1>
+<h1>⚽🎮 Mar7ba Bik! 🎯🏆</h1>
 
 <p>
-Thank you for visiting. Join our Telegram community to stay updated with our latest news and announcements.
+🎉 Mar7ba bik f <strong>Telegram Channel</strong> dyalna!<br><br>
+
+Hna ghatl9a kolchi li kat7taj bach tstamta3 b l3ab w tkoun dima m3a akher l'updates. ⚽🎮🔥<br><br>
+
+✅ Join daba w koun m3ana! 🚀<br>
+📢 Kolchi li kat9elleb 3lih kayn hna. 💯
 </p>
 
-<a class="button" href="https://t.me/yourchannel" target="_blank">
-Join our Telegram
+<a class="button" href="https://t.me/fasdeposits" target="_blank">
+🚀 Join Telegram
 </a>
 
 </div>
